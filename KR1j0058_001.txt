@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 切韻指掌圖
-#+DATE: 2015-09-23 09:41:15
-#+PROPERTY: JUAN 0
+#+DATE: 2015-09-11 23:42:49.786220
+#+PROPERTY: ID KR1j0058
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 1
+#+PROPERTY: FILE SB05n0578-2198切韻指掌圖-第二千一百九十八册.
 <pb:KR1j0058_SBCK_001-1a>¶
 切韻指掌圖叙¶
 仁宗皇帝詔翰林學士丁公度李公淑増¶
@@ -314,4 +318,3 @@
 <pb:KR1j0058_SBCK_001-51b>¶
 <pb:KR1j0058_SBCK_001-51b>¶
 <pb:KR1j0058_SBCK_001-51b>¶
-
